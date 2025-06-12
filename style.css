@@ -254,3 +254,25 @@
 /* @media screen {
     
 } */
+
+.form-custom{
+background: linear-gradient(#dcdddc, #f9ffe3, #777572);
+height: 599px;
+width: 300px;
+text-align: center;
+place-items: center;
+margin:auto;
+border-radius: 4px;
+
+  
+
+}
+/* 
+.inline-custom{
+
+}
+
+.form-custom-div{
+
+
+} */
