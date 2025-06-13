@@ -1,4 +1,8 @@
 
+html, body {
+    overflow-x: hidden;
+  }
+  
 .body-custom{
     box-sizing: border-box;
     overflow-x: hidden;
@@ -14,7 +18,7 @@
 .custom-product{
     margin:5px;
     width:209px;
-    height:600;
+  
 }
 
 @media screen and (max-width:1399px) {
@@ -43,7 +47,7 @@
 
 @media screen and (max-width:768px) {
     .custom-product{
-      width:230;
+      width:230px;
     }
 }   
 
